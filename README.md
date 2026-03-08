@@ -174,11 +174,3 @@ Through this project we learned:
 * Web deployment
 
 ---
-
-## 👩‍💻 Author
-
-**Sakina Khan**
-B.Tech Computer Science Engineering
-NIT Agartala
-
----
